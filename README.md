@@ -1,3 +1,6 @@
+[![Node.js Package](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml)
+
+
 pokemon-me
 ----------------
 
