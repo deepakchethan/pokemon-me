@@ -1,4 +1,4 @@
-[![Node.js Package](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml)
+[![Build](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml) [![Publish](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml) 
 
 
 pokemon-me
