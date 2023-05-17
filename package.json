@@ -1,0 +1,27 @@
+{
+  "name": "pokemon-me",
+  "version": "1.0.0",
+  "description": "Returns random ASCII pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "tap": "16.3.4"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "yargs": "17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakchethan/pokemon-me.git"
+  },
+  "author": "deepakchethan@outlook.com deepakchethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakchethan/pokemon-me/issues"
+  },
+  "homepage": "https://github.com/deepakchethan/pokemon-me#readme"
+}
