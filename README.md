@@ -59,6 +59,8 @@ pokemonMe() // => returns a random pokemon
 `npm install pokemon-me -g`
 
 ```
+> pokemonMe
+
        ,___          .-;'
        `"-.`\_...._/`.`
     ,      \        /
