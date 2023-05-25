@@ -1,7 +1,6 @@
 [![NPM](https://nodei.co/npm/pokemon-me.png)](https://nodei.co/npm/pokemon-me.png)
 
-[![Build](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml) [![Publish](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml) [![Github Publish](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish-github-packages.yml)
-
+[![Build](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/node.js.yml) [![Publish](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/deepakchethan/pokemon-me/actions/workflows/npm-publish.yml) [![NPM Downloads](https://img.shields.io/npm/dt/pokemon-me.svg)](https://img.shields.io/npm/dt/pokemon-me.svg)
 
 pokemon-me
 ----------------
